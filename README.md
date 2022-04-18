@@ -5,4 +5,5 @@
 3. Visualize time series data with line plots using WHO_time_series.csv dataset
 4. Visualize correlations with scatter plots using bike sharing data day.csv
 5. Visualize frequency distributions with bar plots and histograms using bike sharing data day.csv
-6. Speed up exploratory data visualization workflow using Pandas, better compare graphs using grid charts
+6. Speed up exploratory data visualization workflow using Pandas, better compare graphs using grid charts using traffic_sao_paulo.csv
+7. Building relational plots with Seaborn. Visually represent multiple variables using x- and y-coordinates, color, size, shape, and spatial separation using housing.csv
