@@ -9,3 +9,4 @@
 7. Building relational plots with Seaborn. Visually represent multiple variables using x- and y-coordinates, color, size, shape, and spatial separation using housing.csv
 8. Find a few indicators of heavy traffic on the I-94 Interstate highway using Metro_Interstate_Traffic_Volume.csv
 9. Explanatory data visualization - design for an audience using top20_deathtoll.csv
+10. Storytelling data visualization with Matplotlib!
