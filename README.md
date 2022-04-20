@@ -11,3 +11,5 @@
 9. Explanatory data visualization - design for an audience using top20_deathtoll.csv
 10. Storytelling data visualization with Matplotlib!
 11. Gestalt principles and pre-attentive attributes
+12. Matplotlib Styles: FiveThirtyEight Case Study
+13. Storytelling Data Visualization on Exchange Rates
