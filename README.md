@@ -13,3 +13,8 @@
 11. Gestalt principles and pre-attentive attributes
 12. Matplotlib Styles: FiveThirtyEight Case Study
 13. Storytelling Data Visualization on Exchange Rates
+14. Data aggregation with pandas - use the groupby operation and the df.pivot_table() method for aggregation
+15. Combine datasets using the pd.concat() and pd.merge() functions; also df.append(), df.join()
+16. Transforming data with pandas - using the Series.map(), Series.apply(), DataFrame.apply(), and DataFrame.applymap() methods along with the pd.melt()
+17. Working with strings in pandas
+18. Working with missing and duplicate data
